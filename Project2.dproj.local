@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/11/02 18:44:12.000.084,=C:\Users\Carneiro\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/11/02 18:46:03.000.921,C:\Users\Carneiro\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\Carneiro\Documents\Bruno 2 novembro\zoeti\final\TesteDelphiZoe\Codigo\Unit2.dfm</Transaction>
+    <Transaction>2020/11/02 18:46:03.000.921,C:\Users\Carneiro\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Carneiro\Documents\Bruno 2 novembro\zoeti\final\TesteDelphiZoe\Codigo\Unit2.pas</Transaction>
+    <Transaction>2020/11/02 18:46:07.000.993,C:\Users\Carneiro\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Users\Carneiro\Documents\Bruno 2 novembro\zoeti\final\TesteDelphiZoe\Codigo\Project2.dproj</Transaction>
+    <Transaction>2020/11/02 19:50:48.000.654,=C:\Users\Carneiro\Documents\Bruno 2 novembro\zoeti\final\TesteDelphiZoe\Codigo\Unit1.pas</Transaction>
+    <Transaction>2020/11/02 20:01:48.000.487,=C:\Users\Carneiro\Documents\Bruno 2 novembro\zoeti\final\TesteDelphiZoe\Codigo\Unit3.pas</Transaction>
+    <Transaction>2020/11/02 20:01:56.000.417,=C:\Users\Carneiro\Documents\Bruno 2 novembro\zoeti\final\TesteDelphiZoe\Codigo\Unit4.pas</Transaction>
+    <Transaction>2020/11/02 21:20:18.781,=C:\Users\Carneiro\Documents\Bruno 2 novembro\zoeti\final\TesteDelphiZoe\Codigo\Unit3.pas</Transaction>
+    <Transaction>2020/11/02 21:20:26.811,=C:\Users\Carneiro\Documents\Bruno 2 novembro\zoeti\final\TesteDelphiZoe\Codigo\Unit5.pas</Transaction>
+    <Transaction>2020/11/02 21:20:30.721,=C:\Users\Carneiro\Documents\Bruno 2 novembro\zoeti\final\TesteDelphiZoe\Codigo\Unit6.pas</Transaction>
+    <Transaction>2020/11/02 21:20:38.271,=C:\Users\Carneiro\Documents\Bruno 2 novembro\zoeti\final\TesteDelphiZoe\Codigo\Unit7.pas</Transaction>
+    <Transaction>2020/11/02 21:20:44.551,=C:\Users\Carneiro\Documents\Bruno 2 novembro\zoeti\final\TesteDelphiZoe\Codigo\Unit8.pas</Transaction>
+  </Transactions>
+</BorlandProject>
